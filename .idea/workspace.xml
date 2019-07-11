@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f73a0b0-c677-4425-b50b-be79dce68cb9" name="Default Changelist" comment="" />
+    <list default="true" id="6f73a0b0-c677-4425-b50b-be79dce68cb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,16 +31,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="76" lean-forward="true" selection-start-column="76" selection-end-column="76" />
+              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js.map">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="sourcemapFileViewerProvider" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$('.home')</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,6 +89,13 @@
               <item name="smallsky.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="smallsky.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="app.3a45b17372a5f49a7e93d133ad8a2cc2.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="smallsky.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallsky.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -83,6 +103,27 @@
               <item name="smallsky.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallsky.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallsky.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="app.de5e2635dda8b0bae683.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="smallsky.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallsky.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="manifest.3ad1d5771e9b13dbdad2.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="smallsky.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallsky.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor.7948d696d96b4ff3514e.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -118,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562855642696</updated>
-      <workItem from="1562855644658" duration="246000" />
+      <workItem from="1562855644658" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="修改：图片及图标无法显示bug">
       <created>1562855687840</created>
@@ -127,11 +168,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562855687840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改：提交遗漏">
+      <created>1562855938153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562855938153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改：提交遗漏">
+      <created>1562856223468</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562856223469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246000" />
+    <option name="totallyTimeSpent" value="612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -161,7 +216,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改：图片及图标无法显示bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改：图片及图标无法显示bug" />
+    <MESSAGE value="修改：提交遗漏" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改：提交遗漏" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/static/js/app.de5e2635dda8b0bae683.js">
@@ -179,9 +235,13 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="76" lean-forward="true" selection-start-column="76" selection-end-column="76" />
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
   </component>
 </project>
