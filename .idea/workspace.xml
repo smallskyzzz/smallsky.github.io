@@ -3,8 +3,67 @@
   <component name="ChangeListManager">
     <list default="true" id="b1530f4a-e537-4772-bb02-93c593d029f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/1.36ab6c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/10.70ef576.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/10.c60e434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/11.06d9131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/11.418a80f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/12.488975c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/12.5833fe9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/13.608def4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/13.e201212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/14.8fc7e65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/15.68e34db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/15.ebd0250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/16.5b956d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/16.b616099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/17.1dd9aeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/17.2d3be35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/18.2cee5df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/18.6092962.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/19.947e610.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/19.f42eb10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/2.723086e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/2.b31a8b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20.5bd5681.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20.d754f49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/21.03d8f0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/21.67e7f89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/22.b1bff42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/22.dda3006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/23.ac56036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/23.b93a33a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/24.881793a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/25.0469154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/26.e0db716.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/27.0b2f00a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/28.fa84618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/29.7c40c1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/3.2d39bb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/3.f94f354.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/30.5a42206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/31.9c73783.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/32.9f26ce8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/33.a6abdee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/34.5d45e75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/35.d851d5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/36.73aeadf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/37.e34a8c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/38.42bc857.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/4.2ca1d4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/4.4f4195f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/5.c530fcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/5.e799608.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/6.680d7b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/6.ea46a88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/7.1aacc19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/7.6beb521.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/8.ac4fb02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/8.f596939.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/9.1e65dcc.jpg" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +94,19 @@
       <recent name="D:\zts\project\smallskyzzz.github.io" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.76b3d6a08622cd5b2192.js">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/smallskyzzz.github.io/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -44,22 +115,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.app.76b3d6a08622cd5b2192.js" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.app.76b3d6a08622cd5b2192.js" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -72,6 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589361943888</updated>
       <workItem from="1589361945109" duration="1796000" />
+      <workItem from="1627032582899" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="show">
       <created>1589362449167</created>
@@ -80,15 +140,34 @@
       <option name="project" value="LOCAL" />
       <updated>1589362449167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除">
+      <created>1627032679030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627032679030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="show" />
-    <option name="LAST_COMMIT_MESSAGE" value="show" />
+    <MESSAGE value="删除" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="110" key="CommitChangelistDialog2" timestamp="1589366392625">
