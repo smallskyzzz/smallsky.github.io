@@ -1,73 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1530f4a-e537-4772-bb02-93c593d029f6" name="Default Changelist" comment="">
+    <list default="true" id="b1530f4a-e537-4772-bb02-93c593d029f6" name="Default Changelist" comment="删除">
+      <change afterPath="$PROJECT_DIR$/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/app.01e221cd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/chunk-43152a74.e416f00b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/chunk-vendors.caa671fd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/home.b4681206.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.535877f5.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/element-icons.732389de.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.82d303a2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-43152a74.f7146466.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-vendors.d7613aeb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/home.f856de18.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/1.36ab6c9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/10.70ef576.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/10.c60e434.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/11.06d9131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/11.418a80f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/12.488975c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/12.5833fe9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/13.608def4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/13.e201212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/14.8fc7e65.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/15.68e34db.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/15.ebd0250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/16.5b956d6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/16.b616099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/17.1dd9aeb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/17.2d3be35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/18.2cee5df.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/18.6092962.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/19.947e610.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/19.f42eb10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/2.723086e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/2.b31a8b7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/20.5bd5681.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/20.d754f49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/21.03d8f0e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/21.67e7f89.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/22.b1bff42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/22.dda3006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/23.ac56036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/23.b93a33a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/24.881793a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/25.0469154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/26.e0db716.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/27.0b2f00a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/28.fa84618.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/29.7c40c1b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/3.2d39bb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/3.f94f354.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/30.5a42206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/31.9c73783.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/32.9f26ce8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/33.a6abdee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/34.5d45e75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/35.d851d5c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/36.73aeadf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/37.e34a8c7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/38.42bc857.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/4.2ca1d4e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/4.4f4195f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/5.c530fcc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/5.e799608.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/6.680d7b1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/6.ea46a88.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/7.1aacc19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/7.6beb521.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/8.ac4fb02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/8.f596939.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/9.1e65dcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,9 +39,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/fonts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,6 +52,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\self-project\smallskyzzz.github.io\static\fonts" />
+      <recent name="D:\project\self-project\smallskyzzz.github.io\static\js" />
+      <recent name="D:\project\self-project\smallskyzzz.github.io\static\css" />
       <recent name="D:\zts\project\smallskyzzz.github.io" />
     </key>
   </component>
@@ -132,6 +96,8 @@
       <updated>1589361943888</updated>
       <workItem from="1589361945109" duration="1796000" />
       <workItem from="1627032582899" duration="866000" />
+      <workItem from="1637229128138" duration="2051000" />
+      <workItem from="1637241975801" duration="955000" />
     </task>
     <task id="LOCAL-00001" summary="show">
       <created>1589362449167</created>
@@ -158,7 +124,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
